@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "id1",
+      "name": "name1",
+      "number": 100
+    },
+    {
+      "id": "id2",
+      "name": "name2",
+      "number": 200
+    }
+  ]
+}
